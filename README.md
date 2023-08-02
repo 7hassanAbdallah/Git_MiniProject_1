@@ -1,4 +1,5 @@
-# Git_MiniProject_2
+# Git_MiniProject_1
+
 
 
 ## Project note
